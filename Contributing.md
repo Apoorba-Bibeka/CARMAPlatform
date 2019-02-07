@@ -91,7 +91,7 @@ Vincent Driessen’s  ["git flow"](https://nvie.com/posts/a-successful-git-branc
 
 ### hotfix
 * This branch is created for handling emergency situations – it allows developers to quickly fix something in production. This branch uses master as the parent branch and merges into both master and develop.
-* The name of this branch starts with hotfix/ followed by its version. For example: **`hotfix/v0.1.1.`** 
+* The naming convention of this branch starts with hotfix/ followed by its version. For example: **`hotfix/v0.1.1.`** 
 
 ## The End
 Hope this guide helps you get started in contributing to the CARMAPlatform project! 
